@@ -21,11 +21,10 @@ python experiment_runner.py {path_to_your_experiment} {algorithm} {folder_prefix
 Substitude `{path_to_your_experiment}` by the root folder to your experiment, `{algorithm}` by any of `gaston, gspan, subdue_python` and `{folder_prefix}`, the prefix of the folders in your experiment described in the previous section. For `{graph_input_format}` choose `NX`, if you have a folder with one NetworkX JSON File per graph or `LG`, if you are using LineGraph input.
 
 ### Results 
-TBD
-
 For each dataset, the results will be put in a subfolder `results` of your dataset.
 
-
+- **TheobaldSubdue.pdf** — see [`TheobaldSubdue.pdf`](TheobaldSubdue-Bachelorthesis.pdf)
+  
 ## Credits
 - Subdue Python https://github.com/holderlb/Subdue
 - Subdue C https://github.com/gromgull/subdue
