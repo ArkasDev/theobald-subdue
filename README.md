@@ -23,7 +23,7 @@ Substitude `{path_to_your_experiment}` by the root folder to your experiment, `{
 ### Results 
 For each dataset, the results will be put in a subfolder `results` of your dataset.
 
-- **TheobaldSubdue.pdf** — see [`TheobaldSubdue.pdf`](TheobaldSubdue-Bachelorthesis.pdf)
+- Thesis see [`TheobaldSubdue-Bachelorthesis.pdf`](TheobaldSubdue-Bachelorthesis.pdf)
   
 ## Credits
 - Subdue Python https://github.com/holderlb/Subdue
